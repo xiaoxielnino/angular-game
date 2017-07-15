@@ -1,0 +1,1 @@
+This is an angular boilplate with angular1+ es6 + webpack
